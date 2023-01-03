@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p> something new</p>
+        <p> absolutely new</p>
       </header>
 
      
