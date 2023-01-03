@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spa_online_shop/static/css/main.073c9b0a.css",
+    "main.js": "/spa_online_shop/static/js/main.0aba1470.js",
+    "static/js/787.03e7a0ff.chunk.js": "/spa_online_shop/static/js/787.03e7a0ff.chunk.js",
+    "index.html": "/spa_online_shop/index.html",
+    "main.073c9b0a.css.map": "/spa_online_shop/static/css/main.073c9b0a.css.map",
+    "main.0aba1470.js.map": "/spa_online_shop/static/js/main.0aba1470.js.map",
+    "787.03e7a0ff.chunk.js.map": "/spa_online_shop/static/js/787.03e7a0ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0aba1470.js"
+  ]
+}
